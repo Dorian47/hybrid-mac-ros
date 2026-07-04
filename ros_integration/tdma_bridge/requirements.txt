@@ -1,0 +1,11 @@
+# TDMA-ROS Bridge - Python dependencies
+# Install: pip install -r requirements.txt
+
+# Core (required)
+numpy>=1.19
+
+# ROS (optional - only if --use-ros is set)
+# These are installed as system packages with ROS Noetic, not via pip.
+# rospy
+# geometry_msgs
+# std_msgs

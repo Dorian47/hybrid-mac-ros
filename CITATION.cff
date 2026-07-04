@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated arXiv preprint and archived repository release."
+title: "Hybrid TDMA/CSMA MAC for Robotic Communication"
+type: software
+authors:
+  - family-names: "Xu"
+    given-names: "Shiqi"
+  - family-names: "Zhang"
+    given-names: "Lihao"
+  - family-names: "Du"
+    given-names: "Yuyang"
+  - family-names: "Yang"
+    given-names: "Qun"
+  - family-names: "Liew"
+    given-names: "Soung Chang"
+repository-code: "https://github.com/Dorian47/hybrid-mac-ros"
+abstract: "Open-source implementation artifact for a hybrid TDMA/CSMA MAC framework on Openwifi SDR hardware with ROS-based robotic workloads."
+keywords:
+  - TDMA
+  - CSMA
+  - Openwifi
+  - ROS
+  - software-defined radio
+license: "AGPL-3.0"
+preferred-citation:
+  type: article
+  title: "A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications"
+  authors:
+    - family-names: "Xu"
+      given-names: "Shiqi"
+    - family-names: "Zhang"
+      given-names: "Lihao"
+    - family-names: "Du"
+      given-names: "Yuyang"
+    - family-names: "Yang"
+      given-names: "Qun"
+    - family-names: "Liew"
+      given-names: "Soung Chang"
+  year: 2025
+  doi: "10.48550/arXiv.2509.06119"
+  url: "https://arxiv.org/abs/2509.06119"
+  notes: "arXiv:2509.06119. Final venue metadata will be added after publication."
